@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Golden-Ratio/static/css/main.073c9b0a.css",
+    "main.js": "/Golden-Ratio/static/js/main.af34511a.js",
+    "static/js/787.06fef14c.chunk.js": "/Golden-Ratio/static/js/787.06fef14c.chunk.js",
+    "static/media/logo.svg": "/Golden-Ratio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Golden-Ratio/index.html",
+    "main.073c9b0a.css.map": "/Golden-Ratio/static/css/main.073c9b0a.css.map",
+    "main.af34511a.js.map": "/Golden-Ratio/static/js/main.af34511a.js.map",
+    "787.06fef14c.chunk.js.map": "/Golden-Ratio/static/js/787.06fef14c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.af34511a.js"
+  ]
+}
